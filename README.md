@@ -103,8 +103,8 @@ Anime_Performance_Dashboard/
 ## Outcome
 The cleaned dataset was transformed into an interactive Excel dashboard that enables quick analysis of an anime performance using filters, charts, KPIs, and timelines.
 
-## Author
-- Himanshi Natiye
+### Author
+ Himanshi Natiye
 
--**GitHub:**[Himanshi Natiye](https://github.com/himanshimnatiye)
+**GitHub:**[Himanshi Natiye](https://github.com/himanshimnatiye)
 -**LinkedIn:**[Himanshi Natiye](https://www.linkedin.com/in/himanshi-natiye-54884241a/)
