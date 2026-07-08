@@ -94,8 +94,7 @@ Anime_Performance_Dashboard/
 │── Screenshots/
 │     Dashboard.png
 
-│── README.md
-
+│── README.mdsssss
 
 ## Dashboard Preview
 
