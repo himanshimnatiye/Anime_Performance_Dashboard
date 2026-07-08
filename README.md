@@ -33,7 +33,7 @@ The dataset contains sales transaction data including:
 - `hulu`
 - `funimation`
 - `disney_plus`
-- `hbo_max'
+- `hbo_max`
 - `hidive`
 - `pokemon_TV`
 - `streaming_platforms_count`
@@ -96,6 +96,8 @@ Anime_Performance_Dashboard/
 
 │── README.md
 
+
+
 ## Dashboard Preview
 
 ![Anime Performance Dashboard](Screenshots/Dashboard.png)
@@ -103,8 +105,8 @@ Anime_Performance_Dashboard/
 ## Outcome
 The cleaned dataset was transformed into an interactive Excel dashboard that enables quick analysis of an anime performance using filters, charts, KPIs, and timelines.
 
-### Author
+## Author
  Himanshi Natiye
 
-**GitHub:**[Himanshi Natiye](https://github.com/himanshimnatiye)
+-**GitHub:**[Himanshi Natiye](https://github.com/himanshimnatiye)
 -**LinkedIn:**[Himanshi Natiye](https://www.linkedin.com/in/himanshi-natiye-54884241a/)
