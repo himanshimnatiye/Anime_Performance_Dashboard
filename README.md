@@ -95,10 +95,10 @@ Anime_Performance_Dashboard/
 │     Dashboard.png
 
 │── README.md
-
+```
 ## Dashboard Preview
 
-![Anime Performance Dashboard](D:\Anime_Performance_Dashboard\Dashboard\Dashboard.png)
+![Anime Performance Dashboard](Dashboard/Dashboard.png)
 
 ## Outcome
 The cleaned dataset was transformed into an interactive Excel dashboard that enables quick analysis of an anime performance using filters, charts, KPIs, and timelines.
